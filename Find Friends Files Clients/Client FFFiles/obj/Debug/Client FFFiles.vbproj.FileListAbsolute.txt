@@ -1,0 +1,32 @@
+N:\VB.NET\Client FFFiles\Client FFFiles\bin\Debug\Client FFFiles.exe
+N:\VB.NET\Client FFFiles\Client FFFiles\bin\Debug\Client FFFiles.pdb
+N:\VB.NET\Client FFFiles\Client FFFiles\bin\Debug\Client FFFiles.xml
+N:\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client FFFiles.vbprojResolveAssemblyReference.cache
+N:\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client_FFFiles.home.resources
+N:\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client_FFFiles.Resources.resources
+N:\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client FFFiles.vbproj.GenerateResource.Cache
+N:\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client FFFiles.exe
+N:\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client FFFiles.xml
+N:\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client FFFiles.pdb
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Client FFFiles\Client FFFiles\bin\Debug\Client FFFiles.exe
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Client FFFiles\Client FFFiles\bin\Debug\Client FFFiles.pdb
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Client FFFiles\Client FFFiles\bin\Debug\Client FFFiles.xml
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client FFFiles.vbprojAssemblyReference.cache
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client_FFFiles.home.resources
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client_FFFiles.Resources.resources
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client FFFiles.vbproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client FFFiles.exe
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client FFFiles.xml
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Client FFFiles\Client FFFiles\obj\Debug\Client FFFiles.pdb
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\bin\Debug\Client FFFiles.exe
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\bin\Debug\Client FFFiles.pdb
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\bin\Debug\Client FFFiles.xml
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\obj\Debug\Client FFFiles.vbprojAssemblyReference.cache
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\obj\Debug\Client_FFFiles.home.resources
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\obj\Debug\Client_FFFiles.Resources.resources
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\obj\Debug\Client FFFiles.vbproj.GenerateResource.cache
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\obj\Debug\Client FFFiles.vbproj.CoreCompileInputs.cache
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\obj\Debug\Client FFFiles.exe
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\obj\Debug\Client FFFiles.xml
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\obj\Debug\Client FFFiles.pdb
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files Clients\Client FFFiles\bin\Debug\Client FFFiles.exe.config

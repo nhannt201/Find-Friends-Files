@@ -1,0 +1,32 @@
+N:\VB.NET\Find Friends Files\Find Friends Files\bin\Debug\Find Friends Files.exe
+N:\VB.NET\Find Friends Files\Find Friends Files\bin\Debug\Find Friends Files.pdb
+N:\VB.NET\Find Friends Files\Find Friends Files\bin\Debug\Find Friends Files.xml
+N:\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.vbprojResolveAssemblyReference.cache
+N:\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find_Friends_Files.hm.resources
+N:\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find_Friends_Files.Resources.resources
+N:\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.vbproj.GenerateResource.Cache
+N:\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.exe
+N:\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.xml
+N:\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.pdb
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\bin\Debug\Find Friends Files.exe
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\bin\Debug\Find Friends Files.pdb
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\bin\Debug\Find Friends Files.xml
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.vbprojAssemblyReference.cache
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find_Friends_Files.hm.resources
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find_Friends_Files.Resources.resources
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.vbproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.exe
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.xml
+C:\Users\lenovo\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.pdb
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\bin\Debug\Find Friends Files.exe
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\bin\Debug\Find Friends Files.pdb
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\bin\Debug\Find Friends Files.xml
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.vbprojAssemblyReference.cache
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find_Friends_Files.Resources.resources
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.vbproj.GenerateResource.cache
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.vbproj.CoreCompileInputs.cache
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.exe
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.xml
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find Friends Files.pdb
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\bin\Debug\Find Friends Files.exe.config
+C:\Users\trung\OneDrive\TRUNGNHAN_DRIVE\VB.NET\Find Friends Files\Find Friends Files\obj\Debug\Find_Friends_Files.home.resources
